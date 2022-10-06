@@ -6,12 +6,12 @@
 
 <h3>As técnicas de layout de página que abordaremos com mais detalhes neste módulo são:</h3>
 
-- Normal flow
-- The `display` property
-- Flexbox
-- Grid
-- Floats
-- Positioning
+- Normal flow - [Visualizar..](https://github.com/josemarciob/CSS-Basic-Studies/blob/main/normal-flow.md)
+- The `display` property - [Visualizar..](https://github.com/josemarciob/CSS-Basic-Studies/blob/main/display-property.md)
+- Flexbox - [Visualizar..](https://github.com/josemarciob/CSS-Basic-Studies/blob/main/flexbox.md)
+- Grid - [Visualizar..](https://github.com/josemarciob/CSS-Basic-Studies/blob/main/grid-layout.md)
+- Floats - [Visualizar..](https://github.com/josemarciob/CSS-Basic-Studies/blob/main/floats.md)
+- Positioning - [Visualizar..](https://github.com/josemarciob/CSS-Basic-Studies/blob/main/positioning.md)
 - Table layout
 - Multiple-column layout
 
